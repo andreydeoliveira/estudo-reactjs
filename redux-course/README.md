@@ -1,3 +1,8 @@
+# Course 
+
+https://egghead.io/courses/build-a-react-app-with-redux
+Egghead Free plan.
+
 # Create command
 
 yarn create react-app redux-course
